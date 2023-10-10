@@ -1,8 +1,8 @@
 import React from "react";
-import PaddingContainer from "../layout/padding-container";
+import PaddingContainer from "../layout/paddingContainer";
 import siteConfig from "@/config/site";
 import Link from "next/link";
-import SocialLink from "../elements/social-link";
+import SocialLink from "../elements/socialLink";
 
 const Footer = () => {
   return (
