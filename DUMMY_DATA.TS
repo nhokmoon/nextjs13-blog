@@ -7,7 +7,7 @@ export const DUMMY_POST: Post[] = [
     description: "lorem ipsum dolor sit amet in rep another dolor sit",
     category: {
       id: "1",
-      title: "cities",
+      title: "Cities",
     },
     author: {
       id: "1",
@@ -27,7 +27,7 @@ export const DUMMY_POST: Post[] = [
     description: "lorem ipsum dolor sit amet in rep another dolor sit",
     category: {
       id: "1",
-      title: "cities",
+      title: "Cities",
     },
     author: {
       id: "1",
@@ -47,7 +47,7 @@ export const DUMMY_POST: Post[] = [
     description: "lorem ipsum dolor sit amet in rep another dolor sit",
     category: {
       id: "1",
-      title: "cities",
+      title: "Cities",
     },
     author: {
       id: "1",
@@ -67,7 +67,7 @@ export const DUMMY_POST: Post[] = [
     description: "lorem ipsum dolor sit amet in rep another dolor sit",
     category: {
       id: "1",
-      title: "cities",
+      title: "Cities",
     },
     author: {
       id: "1",
@@ -87,7 +87,7 @@ export const DUMMY_POST: Post[] = [
     description: "lorem ipsum dolor sit amet in rep another dolor sit",
     category: {
       id: "1",
-      title: "cities",
+      title: "Cities",
     },
     author: {
       id: "1",
